@@ -12,9 +12,9 @@ const Projects = () => {
             gradient: "from-blue-500 to-cyan-500"
         },
         {
-            title: "Event-Driven Task Tracker",
-            description: "A microservice-based system using Apache Kafka for asynchronous event exchange. Dockerized for 80% faster setup.",
-            tags: ["Java", "Spring Boot", "Kafka", "Docker"],
+            title: "Task Tracker",
+            description: "A microservice-based system built using Spring boot. Dockerized for 80% faster setup.",
+            tags: ["Java", "Spring Boot", "Docker", "PostgreSQL"],
             repoLink: "https://github.com/Sasikiran-31/Event-Driven-Task-Tracker",
             gradient: "from-blue-500 to-cyan-500"
         },
