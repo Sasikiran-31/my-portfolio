@@ -32,7 +32,7 @@ const Contact = () => {
           <motion.a
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            href="mailto:kirankumar.2001@yahoo.in"
+            href="mailto:ssasikiran8@gmail.com"
             className="btn btn-lg text-white border-none bg-gradient-to-r from-blue-600 to-purple-600 shadow-lg shadow-blue-500/30 hover:shadow-blue-500/50 mb-10"
           >
             <svg
